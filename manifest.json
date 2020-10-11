@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "Snowflake Typing Game Hack",
+  "version": "1.0",
+
+  "description": "Adds a button to cheat to Snowflake's typing game (https://ty-ping.netlify.app/)",
+
+  "icons": {
+    "48": "icons/icon.svg"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://ty-ping.netlify.app/"],
+      "js": ["index.js"]
+    }
+  ]
+
+}
