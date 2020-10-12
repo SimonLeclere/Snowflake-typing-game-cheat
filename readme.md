@@ -8,9 +8,9 @@ This repo is a module for Firefox to cheat at Snowflake's simple typing game.
 
 2 - Click on "Add to Firefox"
 
-3 - That's it ! You can now use it :)
+3 - That's it ! You can test it on [https://ty-ping.netlify.app/](https://ty-ping.netlify.app/)
 
-## Usage for development
+## Development
 
 1 - Download this repo
 
@@ -20,7 +20,7 @@ This repo is a module for Firefox to cheat at Snowflake's simple typing game.
 
 4 - Select the index.js file
 
-5 - That's it ! You can test it on [https://ty-ping.netlify.app/](https://ty-ping.netlify.app/)
+5 - That's it !
 
 ## Screenshots
 
