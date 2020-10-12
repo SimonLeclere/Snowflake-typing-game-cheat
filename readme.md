@@ -4,7 +4,7 @@ This repo is a module for Firefox to cheat at Snowflake's simple typing game.
 
 ## Usage
 
-1 - Go to (the module page)[https://addons.mozilla.org/fr/firefox/addon/snowflake-typing-game-hack/]
+1 - Go to [the module page](https://addons.mozilla.org/fr/firefox/addon/snowflake-typing-game-hack/)
 
 2 - Click on "Add to Firefox"
 
